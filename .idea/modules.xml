@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IfKeywordAndCodeBlocks/IfKeywordAndCodeBlocks.iml" filepath="$PROJECT_DIR$/IfKeywordAndCodeBlocks/IfKeywordAndCodeBlocks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaLearn.iml" filepath="$PROJECT_DIR$/.idea/JavaLearn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KeywordsAndExpressions/KeywordsAndExpressions.iml" filepath="$PROJECT_DIR$/KeywordsAndExpressions/KeywordsAndExpressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MethodOverloading/MethodOverloading.iml" filepath="$PROJECT_DIR$/MethodOverloading/MethodOverloading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MethodOverloadingV2/MethodOverloadingV2.iml" filepath="$PROJECT_DIR$/MethodOverloadingV2/MethodOverloadingV2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP challenge 1/OOP challenge 1.iml" filepath="$PROJECT_DIR$/OOP challenge 1/OOP challenge 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecordProject/RecordProject.iml" filepath="$PROJECT_DIR$/RecordProject/RecordProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StatementsWhiteSpaceAndIdenting/StatementsWhiteSpaceAndIdenting.iml" filepath="$PROJECT_DIR$/StatementsWhiteSpaceAndIdenting/StatementsWhiteSpaceAndIdenting.iml" />
+    </modules>
+  </component>
+</project>
