@@ -11,5 +11,18 @@ public class Main {
             }, "05/11/1985", "Java Masterclass" );
             System.out.println( s );
         }
+
+        Student pojoStudent = new Student( "S92400", "Hazel", "05/11/1985", "Java Class" );
+        LPAStudent recordStudent = new LPAStudent( "S92600", "Hazel123", "05/11/1985", "Java Class" );
+
+        System.out.println(pojoStudent);
+        System.out.println(recordStudent);
+
+        pojoStudent.setClassList( pojoStudent.getClassList() + ", Java OOP class" );
+
+        // Record is readonly
+
+        System.out.println(pojoStudent.getName() + " is taking " + pojoStudent.getClassList());
+        System.out.println(recordStudent.name() + " is taking " + recordStudent.classList());
     }
 }
